@@ -10,7 +10,7 @@ License
 Introduction
 Provide a more detailed overview of your project. Explain its purpose, goals, and any important information a user might need to know before diving in.
 
-Installation
+# Installation
 Explain how to install or set up your project. Include any dependencies that need to be installed and provide step-by-step instructions.
 
 bash
